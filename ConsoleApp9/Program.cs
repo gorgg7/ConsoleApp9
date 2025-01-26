@@ -26,7 +26,7 @@ using System.ComponentModel.Design.Serialization;
 //{
 //    static void Main(string[] args)
 //    {
-//        duration duration = new duration(5,6,32);
+//        duration duration = new duration(12,6,50);
 //        Console.WriteLine(duration);
 //        Console.WriteLine( duration.totalsec());
 //    }
