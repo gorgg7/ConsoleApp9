@@ -18,9 +18,7 @@ using System.ComponentModel.Design.Serialization;
 //    {
 //        return $"{hours} hours, {minutes} minutes, {seconds} seconds";
 //    }
-//    public int totalsec(){
-//        return hours*3600+minutes*60+seconds;
-//    }
+//    
 //}
 //class program
 //{
@@ -28,7 +26,7 @@ using System.ComponentModel.Design.Serialization;
 //    {
 //        duration duration = new duration(12,6,50);
 //        Console.WriteLine(duration);
-//        Console.WriteLine( duration.totalsec());
+//
 //    }
 //}
 #endregion
